@@ -1,3 +1,5 @@
+package main.java.com.kuho.demo;
+
 public class Helloworld {
     public static int value = 100;
     public static void main(String[] args) {
@@ -5,3 +7,4 @@ public class Helloworld {
         System.out.println(value);
     }
 }
+d
